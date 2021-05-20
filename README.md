@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YstiaBot
-- 🤖 I'm a bot for the @ystia project
+- 🤖 I'm a bot for the [@ystia](https://github.com/ystia) project
 - 📫 [![Join the @ystia chat at https://gitter.im/ystia/community](https://badges.gitter.im/ystia/community.svg)](https://gitter.im/ystia/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <!---
